@@ -55,10 +55,11 @@
 	git commit -m 'add two files'
 	git push
  13. На веб интерфейсе создать файл bug_report.json.
-	В GitHub cliсk [Add file]
+	В GitHub cliсk [Add file]>[Great new file]
  14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 	В GitHub click [Commit changes]
  15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
+	В GitHub click [Edit this file]
 	{
  "Bug_id": 1, 
  "Title": "The SAVE DATA button is smaller than the others",
@@ -67,7 +68,7 @@
  "Environment": "Redmi Note 10Pro, Android 12",
  "AR": "The application buttons have one view",
  "ER": "The SAVE DATA button is smaller than the others",
-}
+	}
  16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 	В GitHub click [Commit changes]
  17. Синхронизировать внешний и локальный репозиторий JSON
