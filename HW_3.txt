@@ -64,7 +64,7 @@
  "Bug_id": 1, 
  "Status": "new",
  "Severity": "trivial",
- "Priority": "low"
+ "Priority": "low",
  "Title": "The SAVE DATA button is smaller than the others",
  "Environment": "Redmi Note 10Pro_Android 12",
  "Precondition": "To Do List app installed",
@@ -72,9 +72,9 @@
  	"1": "Open To Do List app",
 	"2": "Open New List page",
 	"3": "Enter any text"
-	}
+	},
  "ER": "The SAVE DATA button is smaller than the others",
- "AR": "The application buttons have one view",
+ "AR": "The application buttons have one view"
 	}
  16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 	В GitHub click [Commit changes]
